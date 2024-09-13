@@ -172,6 +172,8 @@ Plugin 'VundleVim/Vundle.vim'
 " plugin on GitHub repo
 Plugin 'tpope/vim-fugitive'
 
+Plugin 'tpope/vim-rhubarb'
+
 Plugin 'mhinz/vim-startify'
 
 Plugin 'preservim/nerdtree'
