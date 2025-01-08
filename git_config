@@ -1,0 +1,17 @@
+[color]
+        ui = auto
+[user]
+        name = Your_Name
+        email = Your_Email
+[core]
+        editor = vim
+        excludesFile = $HOME/.gitignore_global
+[alias]
+        st = status
+        br = branch
+        cim = commit -m
+        cia = commit --amend
+        ss = stash
+        unstage = restore --staged
+[pull]
+        rebase = true
